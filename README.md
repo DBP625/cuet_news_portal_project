@@ -22,8 +22,8 @@ The *CUET News Portal* is a web-based platform designed to centralize and dissem
 
 ### 📋 Prerequisites  
 Ensure the following dependencies are installed:  
-✅ Node.js & npm (for JavaScript-based backend)  
-✅ Database system (MySQL/PostgreSQL/MongoDB)  
+✅ Xaamp & npm (for JavaScript-based backend)  
+✅ Database system (MySQL)  
 ✅ Git for version control  
 
 ### 🔧 Setup Instructions  
